@@ -14,3 +14,19 @@
         }
     }
     ```
+
+
+# vue ant table点击行问题：
+    ### html
+  ```
+     <a-table  :customRow="goLogsDetails" >
+    </a-table>
+
+     ```
+     
+    ### ts
+  ```
+     <a-table  :customRow="goLogsDetails" >
+    </a-table>
+
+     ```
