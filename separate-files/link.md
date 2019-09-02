@@ -21,12 +21,8 @@
   ```
      <a-table  :customRow="goLogsDetails" >
     </a-table>
-
      ```
-     
     ### ts
-  ```
      <a-table  :customRow="goLogsDetails" >
     </a-table>
-
      ```
