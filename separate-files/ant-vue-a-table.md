@@ -10,7 +10,6 @@
         return {
             on: {
                 click: () => {
-                  
                 }
             }
         }
